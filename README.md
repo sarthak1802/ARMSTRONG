@@ -1,2 +1,2 @@
-# ARMSTRONG
-armstrong number via c++
+# GitHub-Bot
+Trying to create all green boxes by manipulating GitHub time stamp
